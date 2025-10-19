@@ -1,0 +1,6 @@
+train: ../2.5kimg_test_malaria_gen2/images/train
+val: ../2.5kimg_test_malaria_gen2/images/val
+
+nc: 1
+
+names: ['Infected']
